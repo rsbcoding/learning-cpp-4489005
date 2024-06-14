@@ -3,7 +3,7 @@ node_modules
 .tmp
 npm-debug.log
 -workspace
-.exe
-.ilk
-.obj
-.pdb
+*.exe
+*.ilk
+*.obj
+*.pdb
